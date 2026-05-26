@@ -6,7 +6,7 @@ npm create vite@latest my-react-app -- --template react
 In this tutorial, we will:
 - [x] Build a portfolio website
 - [x] Upload the project to GitHub
-- [ ] Deploy the website online on GitHub Pages / Cloudflare Pages
+- [x] Deploy the website online on GitHub Pages / Cloudflare Pages
 
 ---
 
